@@ -13,6 +13,7 @@
 		E2D6483E209A4A7600E628A6 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E2D6483C209A4A7600E628A6 /* SoundBoard.xcdatamodeld */; };
 		E2D64840209A4A7600E628A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2D6483F209A4A7600E628A6 /* Assets.xcassets */; };
 		E2D64843209A4A7600E628A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2D64841209A4A7600E628A6 /* LaunchScreen.storyboard */; };
+		E2D6484B209A4EBE00E628A6 /* SounViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2D6484A209A4EBE00E628A6 /* SounViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E2D6483F209A4A7600E628A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2D64842209A4A7600E628A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2D64844209A4A7600E628A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2D6484A209A4EBE00E628A6 /* SounViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SounViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				E2D64835209A4A7600E628A6 /* AppDelegate.swift */,
 				E2D64837209A4A7600E628A6 /* ViewController.swift */,
+				E2D6484A209A4EBE00E628A6 /* SounViewController.swift */,
 				E2D64839209A4A7600E628A6 /* Main.storyboard */,
 				E2D6483F209A4A7600E628A6 /* Assets.xcassets */,
 				E2D64841209A4A7600E628A6 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				E2D6483E209A4A7600E628A6 /* SoundBoard.xcdatamodeld in Sources */,
 				E2D64838209A4A7600E628A6 /* ViewController.swift in Sources */,
 				E2D64836209A4A7600E628A6 /* AppDelegate.swift in Sources */,
+				E2D6484B209A4EBE00E628A6 /* SounViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
